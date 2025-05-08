@@ -4,4 +4,4 @@ Documentation available on [tennis_shot_classifier.pdf](./tennis_shot_classifier
 
 Team Members:
 - Evangelos Mitikas, student at the Department of Electrical and Electronics Engineering
-- Ioanna Floraki, student at the Department Biomedical Engineering
+- Ioanna Floraki, student at the Department of Biomedical Engineering
